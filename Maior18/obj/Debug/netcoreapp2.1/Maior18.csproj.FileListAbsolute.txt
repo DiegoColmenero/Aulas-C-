@@ -1,0 +1,11 @@
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\obj\Debug\netcoreapp2.1\Maior18.csprojAssemblyReference.cache
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\obj\Debug\netcoreapp2.1\Maior18.csproj.CoreCompileInputs.cache
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\obj\Debug\netcoreapp2.1\Maior18.AssemblyInfoInputs.cache
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\obj\Debug\netcoreapp2.1\Maior18.AssemblyInfo.cs
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\bin\Debug\netcoreapp2.1\Maior18.deps.json
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\bin\Debug\netcoreapp2.1\Maior18.runtimeconfig.json
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\bin\Debug\netcoreapp2.1\Maior18.runtimeconfig.dev.json
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\bin\Debug\netcoreapp2.1\Maior18.dll
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\bin\Debug\netcoreapp2.1\Maior18.pdb
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\obj\Debug\netcoreapp2.1\Maior18.dll
+C:\Users\46938238804\Desktop\Aulas C#\Maior18\obj\Debug\netcoreapp2.1\Maior18.pdb

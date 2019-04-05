@@ -1,0 +1,11 @@
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\bin\Debug\netcoreapp2.1\Pesquisa.deps.json
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\bin\Debug\netcoreapp2.1\Pesquisa.runtimeconfig.json
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\bin\Debug\netcoreapp2.1\Pesquisa.runtimeconfig.dev.json
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\bin\Debug\netcoreapp2.1\Pesquisa.dll
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\bin\Debug\netcoreapp2.1\Pesquisa.pdb
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\obj\Debug\netcoreapp2.1\Pesquisa.csprojAssemblyReference.cache
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\obj\Debug\netcoreapp2.1\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\obj\Debug\netcoreapp2.1\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\obj\Debug\netcoreapp2.1\Pesquisa.AssemblyInfo.cs
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\obj\Debug\netcoreapp2.1\Pesquisa.dll
+C:\Users\46938238804\Desktop\Aulas C#\Pesquisa\obj\Debug\netcoreapp2.1\Pesquisa.pdb

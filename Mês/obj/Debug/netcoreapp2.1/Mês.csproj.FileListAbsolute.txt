@@ -1,0 +1,11 @@
+C:\Users\46938238804\Desktop\Aulas C#\Mês\bin\Debug\netcoreapp2.1\Mês.deps.json
+C:\Users\46938238804\Desktop\Aulas C#\Mês\bin\Debug\netcoreapp2.1\Mês.runtimeconfig.json
+C:\Users\46938238804\Desktop\Aulas C#\Mês\bin\Debug\netcoreapp2.1\Mês.runtimeconfig.dev.json
+C:\Users\46938238804\Desktop\Aulas C#\Mês\bin\Debug\netcoreapp2.1\Mês.dll
+C:\Users\46938238804\Desktop\Aulas C#\Mês\bin\Debug\netcoreapp2.1\Mês.pdb
+C:\Users\46938238804\Desktop\Aulas C#\Mês\obj\Debug\netcoreapp2.1\Mês.csprojAssemblyReference.cache
+C:\Users\46938238804\Desktop\Aulas C#\Mês\obj\Debug\netcoreapp2.1\Mês.csproj.CoreCompileInputs.cache
+C:\Users\46938238804\Desktop\Aulas C#\Mês\obj\Debug\netcoreapp2.1\Mês.AssemblyInfoInputs.cache
+C:\Users\46938238804\Desktop\Aulas C#\Mês\obj\Debug\netcoreapp2.1\Mês.AssemblyInfo.cs
+C:\Users\46938238804\Desktop\Aulas C#\Mês\obj\Debug\netcoreapp2.1\Mês.dll
+C:\Users\46938238804\Desktop\Aulas C#\Mês\obj\Debug\netcoreapp2.1\Mês.pdb
